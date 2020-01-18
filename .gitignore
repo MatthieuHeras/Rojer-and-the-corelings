@@ -9,6 +9,8 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/Assets/TextMesh Pro
+/Assets/AstarPathfindingProject
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta

@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Arlen" Collapsed="true">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Units\Fighters\Deliverers\Arlen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cutter" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Units\Fighters\Cutter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DamaTing" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Units\DamaTing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fighter" Collapsed="true">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIACADgAAAIAAAAAAAAIAAABAAgAAAAgBAAAQ=</HashCode>
+      <FileName>Assets\Scripts\Units\Fighters\Fighter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MountainSpear" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAIAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Units\Fighters\SquadFighters\MountainSpear.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Musician" Collapsed="true">
+    <Position X="11.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Units\Musician.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sharum" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Units\Fighters\SquadFighters\Sharum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unit" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQYCAAIACAAAAAkEAIAAABAAAAOcSBEAAAgkpAQAMg=</HashCode>
+      <FileName>Assets\Scripts\Units\Unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Warder" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Units\Warder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WoodenSoldier" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Units\Fighters\SquadFighters\WoodenSoldier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SquadFighter" Collapsed="true">
+    <Position X="4.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Units\Fighters\SquadFighters\SquadFighter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Deliverer" Collapsed="true">
+    <Position X="4.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Units\Fighters\Deliverers\Deliverer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jardir" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Units\Fighters\Deliverers\Jardir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Demon" Collapsed="true">
+    <Position X="4.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Units\Fighters\Demons\Demon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FieldDemon" Collapsed="true">
+    <Position X="0.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Units\Fighters\Demons\FieldDemon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlameDemon" Collapsed="true">
+    <Position X="0.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Units\Fighters\Demons\FlameDemon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MimicDemon" Collapsed="true">
+    <Position X="0.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Units\Fighters\Demons\MimicDemon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MindDemon" Collapsed="true">
+    <Position X="0.5" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Units\Fighters\Demons\MindDemon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RockDemon" Collapsed="true">
+    <Position X="0.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Units\Fighters\Demons\RockDemon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindDemon" Collapsed="true">
+    <Position X="0.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Units\Fighters\Demons\WindDemon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WoodDemon" Collapsed="true">
+    <Position X="0.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Units\Fighters\Demons\WoodDemon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
