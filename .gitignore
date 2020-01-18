@@ -2,15 +2,15 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
-/Assets/TextMesh Pro
-/Assets/AstarPathfindingProject
+/Rojer and the corelings/[Ll]ibrary/
+/Rojer and the corelings/[Tt]emp/
+/Rojer and the corelings/[Oo]bj/
+/Rojer and the corelings/[Bb]uild/
+/Rojer and the corelings/[Bb]uilds/
+/Rojer and the corelings/[Ll]ogs/
+/Rojer and the corelings/[Mm]emoryCaptures/
+/Rojer and the corelings/Assets/TextMesh Pro
+/Rojer and the corelings/Assets/AstarPathfindingProject
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
